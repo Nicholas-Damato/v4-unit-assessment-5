@@ -33,3 +33,10 @@
 .oops-box {
   padding: 50px;
 }
+
+@media(max-width:500px){
+    .post-button {
+      display: flex;
+      margin-left: 37%;
+    }
+}
